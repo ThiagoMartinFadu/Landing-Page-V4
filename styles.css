@@ -287,9 +287,6 @@ header nav a:hover { color: var(--text-1); }
 }
 
 .hero-cin-actions {
-    position: absolute;
-    bottom: 90px;
-    left: 110px;
     display: flex;
     gap: 14px;
     z-index: 10;
